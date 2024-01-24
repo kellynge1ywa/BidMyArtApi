@@ -1,0 +1,11 @@
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\bin\Debug\net8.0\BidMyArtMessageBus.deps.json
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\bin\Debug\net8.0\BidMyArtMessageBus.dll
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\bin\Debug\net8.0\BidMyArtMessageBus.pdb
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\obj\Debug\net8.0\BidMyArtMessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\obj\Debug\net8.0\BidMyArtMessageBus.AssemblyInfoInputs.cache
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\obj\Debug\net8.0\BidMyArtMessageBus.AssemblyInfo.cs
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\obj\Debug\net8.0\BidMyArtMessageBus.csproj.CoreCompileInputs.cache
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\obj\Debug\net8.0\BidMyArtMessageBus.dll
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\obj\Debug\net8.0\refint\BidMyArtMessageBus.dll
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\obj\Debug\net8.0\BidMyArtMessageBus.pdb
+D:\projects\Dotnet\BidMyArt\BidMyArtMessageBus\obj\Debug\net8.0\ref\BidMyArtMessageBus.dll
